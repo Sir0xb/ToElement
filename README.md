@@ -17,7 +17,7 @@ import XyzAbc from "...";
 class Home extends React.Component {
 	render() {
 		return (
-			<XyzAbc>只需要选择，command + shift + h</XyzAbc>
+			<XyzAbc>需要的Element</XyzAbc>
 		);
 	}
 }
@@ -27,7 +27,7 @@ export default Home;
 
 #### 1) 选择 ZyzAbc
 
-#### 2) Comman + shift + h
+#### 2) `Tools -> To Element` 或者 binding `to_element` command 之后用快捷键
 
 #### 3) 得到 `<XyzAbc></XyzAbc>`
 
