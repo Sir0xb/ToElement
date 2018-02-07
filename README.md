@@ -31,6 +31,4 @@ export default Home;
 
 #### 3) 得到 `<XyzAbc></XyzAbc>`
 
-## License
-
-MIT, Apache, etc.
+## License(MIT, Apache, etc.)
