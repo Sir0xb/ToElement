@@ -25,6 +25,12 @@ class Home extends React.Component {
 export default Home;
 ```
 
+#### 1) 选择 ZyzAbc
+
+#### 2) Comman + shift + h
+
+#### 3) 得到 `<XyzAbc></XyzAbc>`
+
 ## License
 
 MIT, Apache, etc.
